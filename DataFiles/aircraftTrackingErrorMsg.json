@@ -1,0 +1,11 @@
+{
+    "invalidFlightNo" : "FlightNumber is alphanumeric.",
+    "requireFlightNo" : "FlightNumber is required.",
+    "longFlightNo" : "FlightNumber must be of 6 characters.",
+    "invalidFlightDate" : "FlightDate is invalid.",
+    "requiredFlightDate" : "FlightDate is required.",
+    "requiredOrigin" : "Origin is required.",
+    "requiredDestination" : "Destination is required.",
+    "invalidOrigin": "Origin is invalid.",
+    "invalidDestination" : "Destination is invalid."
+}

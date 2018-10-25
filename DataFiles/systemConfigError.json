@@ -1,0 +1,12 @@
+{
+    "lessthan6" : "ACREG must be 6 characters (for ex:N123UP)",
+    "morethan6" : "ACREG must be 6 characters (for ex:N123UP)",
+    "invalidACREG" : "ACREG is Alphanumeric.",
+    "invalidMail" : "Invalid Email.",
+    "invalidPhone" : "Invalid phone number.",
+    "mustPhone" : "Value must be 10 digits.",
+    "requiredMail" : "Email is required.",
+    "requiredPhone" : "Phone number is required."
+
+
+}

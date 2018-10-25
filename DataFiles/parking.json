@@ -1,0 +1,9 @@
+{
+    "parking" : "C7",
+    "rampFrequency" : "123.00",
+    "longrampFrequency": "123.000",
+    "invalidrampFrequency" : "123",
+    "invalidParking" : "!@",
+    "MessageText" : "Setting throught AUtomation",
+    "search": "SDF"
+}

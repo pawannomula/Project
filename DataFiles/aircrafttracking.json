@@ -1,0 +1,12 @@
+{
+    "flightno" : "UP8503",
+    "origin" : "SDF",
+    "destination" : "ONT",
+    "flightdate" : "2018-03-22",
+    "invalidflightno" : "n!",
+    "invalidorigin" : "S@F",
+    "invaliddestination" : "O#T",
+    "invalidflightdate" : "000",
+    "longflightno" : "UP850002",
+    "search" : "N120UP"
+}

@@ -1,0 +1,16 @@
+{
+    "validmsg" : "M42",
+    "invalidmsg" : "M42!",
+    "longmsg" :"M30,M42,M44,M41,M40,M3M,M3N,M3U,FMD,TT2,CLX,CLC",
+    "validACREG" : "N199UP",
+    "invalidACREG" : "N!99UP",
+    "longACREG" : "N121UPN122UPN144UPN199UPN299UPN399UP",
+    "longFlightNumber": "1234567890213547422",
+    "invalidFlightNumber" : "!@#",
+    "validFlightNumber" : "UP8501",
+    "Origin" : "SDF",
+    "Destination" : "ONT",
+    "longOrigin" : "SDFFF",
+    "longDestination" : "ONTTTT"
+  
+}

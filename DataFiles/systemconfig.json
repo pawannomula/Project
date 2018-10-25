@@ -1,0 +1,19 @@
+{
+    "searchPdc" : "SDF",
+    "addNewPDC" : "ONT",
+    "searchACREG" : "N220UP",
+    "addACREG" : "N199UP",
+    "lessACREG" : "N199",
+    "longACREG" : "N199UPP",
+    "invalidACREG" : "ABCDEF",
+    "symbolACREG" : "!@#",
+    "invalidPDC" : "ABC",
+    "validMail" : "abc.cba@gmail.com",
+    "invalidMail" : "abc.cdcgmail.com",
+    "validPhone" : "8806828353",
+    "mustPhone" : "123",
+    "invalidPhone" : "!@#",
+    "searchRepairAlert" : "M42",
+    "deleteRepairAlert" : "abc.cba@gmail.com",
+    "SMI" : "M42"
+}
